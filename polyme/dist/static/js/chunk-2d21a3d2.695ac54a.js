@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a3d2"],{bb51:function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",{})},c=[],a={name:"",components:{},props:{},data:function(){return{}},computed:{},watch:{},created:function(){window.location.href="http://swap-oec.pgo.farm/"},mounted:function(){},beforeDestroy:function(){},methods:{}},r=a,u=e("2877"),i=Object(u["a"])(r,o,c,!1,null,"7974c25e",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d21a3d2.695ac54a.js.map
